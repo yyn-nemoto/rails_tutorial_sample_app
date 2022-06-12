@@ -262,7 +262,7 @@ DEPENDENCIES
   rails (~> 7.0.3)
   rails-controller-testing
   rename
-  sass-rails (>= 3.2)
+  sass-rails (~> 6)
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
