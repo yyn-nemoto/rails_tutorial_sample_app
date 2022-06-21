@@ -11,6 +11,7 @@ gem 'sass-rails', '>= 3.2'
 gem 'rails-controller-testing'
 gem 'bcrypt',         '3.1.12'
 gem 'byebug'
+gem 'jquery-rails'
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.3"
 
